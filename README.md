@@ -24,7 +24,7 @@ Though of course if someone asks I could create a Patreon / buymeacoffee page, j
 
 Please note donations are not ways to buy support or other related services. As such I also do not promise future updates or to fulfill any requests.
 
-Of course the sourcecode of my mods / plugins is (kind of) copyleft (see the license of the repository in question) so in case I disappear without a trace forking and continued development by others is still an option. If I do not want to develop something anymore (and I dont go MIA) I would also have no problem to hand over the repositories in question to the Anomaly community.
+Of course the sourcecode of my mods / plugins is (kind of) copyleft (see the license of the repository in question) so in case I disappear without a trace forking and continued development by others is still an option. If I do not want to develop something anymore (and I dont go MIA) I would also have no problem to hand over the repositories in question to willing maintainers.
 
 With that out of the way, here are ways you can donate, should you still want to do so.
 
