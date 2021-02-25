@@ -1,6 +1,6 @@
 # Donations
 
-[Jump to Donation Section](/#donation)
+[Jump to Donation Section](#donation)
 
 ## Why a separate Repository
 
